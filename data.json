@@ -215,31 +215,31 @@
     },
     {
       "link": "/play/",
-      "label": "Live Casino",
+      "label": "Contacts",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Slot Games",
+      "label": "No Deposit Bonus",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Table games",
+      "label": "About us",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Crash Games",
+      "label": "Basswin Casino App",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Sports",
+      "label": "Promo-code",
       "submenu": [],
       "openInNewTab": false
     }
@@ -247,25 +247,7 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Responsible Gaming",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Terms and Conditions",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Privacy Policy",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Bonus Rules",
+      "label": "Terms of Service",
       "submenu": [],
       "openInNewTab": false
     },
@@ -277,29 +259,24 @@
     },
     {
       "link": "/play/",
-      "label": "Support",
+      "label": "Privacy Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "FAQ",
+      "label": "Contact Us",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Contact",
+      "label": "About Us",
       "submenu": [],
       "openInNewTab": false
     }
   ],
   "footer_images": [
-    {
-      "link": "https://www.gambleaware.org/",
-      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
-      "image_alt": "be gamble aware"
-    },
     {
       "link": "https://www.gamcare.org.uk/",
       "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
@@ -307,23 +284,23 @@
     },
     {
       "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
+      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
+      "image_alt": "skrill"
     },
     {
       "link": "/play/",
-      "image": "/uploads/acd94c7d64c4572fa58fc8f828f74bd8.svg",
-      "image_alt": "googlepay"
+      "image": "/uploads/d3d357852a0994aad4f4fb0220ca2058.svg",
+      "image_alt": "neteller"
     },
     {
       "link": "/play/",
-      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
-      "image_alt": "apple pay"
+      "image": "/uploads/418b10f20c5a107495678db5348856b3.svg",
+      "image_alt": "interac"
     },
     {
       "link": "/play/",
-      "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
-      "image_alt": "btc"
+      "image": "/uploads/51c7213b46f82a827ba25038092dc778.webp",
+      "image_alt": "paypal"
     }
   ],
   "Slots": [
@@ -409,9 +386,9 @@
       "question": "How long does a Basswin Casino withdrawal take to process?"
     }
   ],
-  "_generated_at": "2026-10-09T16:22:01.229Z",
+  "_generated_at": "2026-10-09T17:53:25.858Z",
   "_version": "1.0.0",
   "content_alt": "bass win casino slots",
-  "_last_deploy": "2026-10-09T16:22:01.832Z",
-  "_deploy_trigger": "sx1xh4"
+  "_last_deploy": "2026-10-09T17:53:26.445Z",
+  "_deploy_trigger": "axe5bb"
 }
